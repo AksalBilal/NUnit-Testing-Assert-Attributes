@@ -1,0 +1,15 @@
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\NUnitTestingAttributes.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\NUnitTestingAttributes.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\NUnitTestingAttributes.runtimeconfig.dev.json
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\NUnitTestingAttributes.dll
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\NUnitTestingAttributes.pdb
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\obj\Debug\netcoreapp2.1\NUnitTestingAttributes.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\obj\Debug\netcoreapp2.1\NUnitTestingAttributes.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\obj\Debug\netcoreapp2.1\NUnitTestingAttributes.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\obj\Debug\netcoreapp2.1\NUnitTestingAttributes.dll
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\obj\Debug\netcoreapp2.1\NUnitTestingAttributes.pdb
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\bilal\OneDrive\Masaüstü\NUnitTestingAttributes\NUnitTestingAttributes\obj\Debug\netcoreapp2.1\NUnitTestingAttributes.csprojAssemblyReference.cache
